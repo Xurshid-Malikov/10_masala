@@ -123,7 +123,7 @@
 // function lessThan100(a, b) {
 // 	return (a + b) < 100
 // }
-// console.log(lessThan100(22,15))
+// console.log(lessThan100(22,25))
 
 //--------------------------------------------------10-Masala-----------------------------------------------------
 // Sharti:
@@ -132,9 +132,20 @@
 // animals(5, 2, 8) ➞ 50
 
 // Javobi:
+
+// 1-ususli
 // function animals(chickens, cows, pigs) {
 // 	var ch = chickens * 2
 // 	var c = (cows + pigs) * 4
 // 	return ch + c
 // }
 // console.log(animals(2,3,5))
+
+// 2-ususli
+// function animals(chickens, cows, pigs) {
+//   	var ch = chickens * 2
+//   	var c = cows * 4
+//     var p = pigs * 4
+//   	return ch + c + p
+//   }
+//   console.log(animals(2,3,5))
